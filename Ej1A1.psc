@@ -20,3 +20,4 @@ Algoritmo Apartado1
 		Fin Si
 	Hasta Que sexo="hombre" o sexo="mujer"
 FinAlgoritmo
+//PRUEBA PARA GIT
